@@ -1,22 +1,16 @@
-## Discord Lookup [![Netlify Status](https://api.netlify.com/api/v1/badges/fbe54b40-943c-4270-9490-ef2aff505f80/deploy-status)](https://app.netlify.com/sites/musing-wilson-4102ff/deploys)
+## Discord search id website [![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-4LVZkfpWHbVh0xcQVgaVH1ge3US6OybX5Q&usqp=CAU)](https://search-discord-id.9688girl.repl.co/)
 
-Lookup a Discord User or Bot ID
+最好的查詢Discord用戶/機器人ID網站
 
-## Getting started
+## replit setup
 
-Simply run the application with
 
-```shell
-npm install
-npm start
-```
 
-## Badges
 
-You can find all used Official Discord badges for this project in SVG files. (Discord Nitro, boosting server and partner badges are not available)
-- Bot and Verified Bot badges may look different because they doesn't exist in the official Discord assets
+npm install > npm start
+
+
 
 ## Aknowledgements
 
-- [Discord](https://discord.com/developers/docs/resources/user#users-resource) for their docs and assets.
-
+- [Discord lookup github](https://github.com/Heyimlulu/Discord-Lookup)
