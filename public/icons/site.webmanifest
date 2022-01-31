@@ -1,0 +1,19 @@
+{
+    "name": "Discord Lookup",
+    "short_name": "Discord Lookup",
+    "icons": [
+        {
+            "src": "https://cdn.discordapp.com/attachments/911188335370846229/937708742139605042/IMG_2303.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://cdn.discordapp.com/attachments/911188335370846229/937708742139605042/IMG_2303.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ],
+    "theme_color": "#5865f2",
+    "background_color": "#5865f2",
+    "display": "standalone"
+}
