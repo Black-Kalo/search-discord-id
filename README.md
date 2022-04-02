@@ -1,4 +1,4 @@
-## Discord search id website https://search-discord-id.9688girl.repl.co/
+## Discord search id website https://dsui.cf
 
 最好的查詢Discord用戶/機器人ID網站
 
