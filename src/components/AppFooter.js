@@ -11,9 +11,9 @@ export default function AppFooter({ visits }) {
                     <span>今天使用人數: <span className="count">{ visits }</span></span>
                     <div>
                         <span>如果有任何問題,即可加入</span>
-                        <a className='footer-links' href='https://discord.gg/ZYw62GGGRx' target="_blank" rel="noopener noreferrer">Support</a>
+                        <a className='footer-links' href='https://discord.gg/hbZXjAZjv5' target="_blank" rel="noopener noreferrer">Support</a>
                     </div>
-                    Make by. 黑月Kalo#2006
+                    Make by. 幻月貓#1314
                 </div>
         </footer>
     )
